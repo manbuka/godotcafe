@@ -1,2 +1,2 @@
-# godotcafe
-cafe to have and design games using godot engine 🤖 ☕ 💡
+#  🤖 godotcafe
+###### A place to wonder using godot engine. Coming soon.
